@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/channels/@me",
     "events": {
       "connect": true,
       "disconnect": true,
